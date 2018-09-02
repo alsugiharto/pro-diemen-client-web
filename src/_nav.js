@@ -9,6 +9,20 @@ export default {
         text: 'NEW',
       },
     },
+
+	  {
+
+		  name: 'Dashboard2',
+		  url: '/dashboard2',
+		  icon: 'icon-speedometer',
+		  bedge:{
+			variant: 'info',
+			text: 'NEW'
+		  }
+
+	  },
+
+
     {
       title: true,
       name: 'Theme',
